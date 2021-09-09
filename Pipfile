@@ -8,6 +8,8 @@ pytest = "*"
 pytest-cov = "*"
 requests = "*"
 pandas = "*"
+pyodbc = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 autopep8 = "*"
