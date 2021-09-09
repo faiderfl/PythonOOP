@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pytest = "*"
 pytest-cov = "*"
+requests = "*"
+pandas = "*"
 
 [dev-packages]
 autopep8 = "*"
